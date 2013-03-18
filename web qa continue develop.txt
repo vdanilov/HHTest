@@ -1,2 +1,0 @@
-Base code
-COde in web_qa
